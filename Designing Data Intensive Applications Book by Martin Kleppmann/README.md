@@ -1,5 +1,5 @@
 # Review for Designing Data Intensive Applications Book by Martin Kleppmann
-![Alt text](/pics/book-cover.png?raw=true "book-cover")
+[![Designing Data-Intensive Applications](pics/book-cover.png)]
 
 
 ## Contents
